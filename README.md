@@ -1,3 +1,6 @@
+
+
+
 ## Hi, I'm Mandy 👋
 
 - 🌱 I’m currently learning Data Science
@@ -8,9 +11,11 @@
 
 #### Programming Languages
 
+[![My Skills](https://skillicons.dev/icons?i=java,python,nodejs,figma&theme=light)](https://skillicons.dev)
+
+
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30"/>
 
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
