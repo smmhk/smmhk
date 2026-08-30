@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mandy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mandy-shin-0ba004295) 
 - 📄 You can view my resume [here](https://docs.google.com/document/d/1KHV7Cm_pajebVWTGeqy-sXWBsWDo5IX6/edit)
-- 📄 You can view my web-resume [here](https://resumemandy.lovable.app/)
+- 🪄 You can view my web-resume [here](https://resumemandy.lovable.app/)
 
 ### 🛠️ Languages and Tools
 
