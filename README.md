@@ -1,14 +1,33 @@
 
-
-
 ## Hi, I'm Mandy 👋
 
-- 🌱 I’m currently learning Data Science
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mandy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mandy-shin-0ba004295) 
-- 📄 You can view my resume [here](https://docs.google.com/document/d/1KHV7Cm_pajebVWTGeqy-sXWBsWDo5IX6/edit)
-- 🪄 You can view my web-resume [here](https://resumemandy.lovable.app/)
+**E-commerce Backend Developer → Data Engineering & Analytics**
 
-### 🛠️ Languages and Tools
+I'm a developer based in Vancouver, Canada, with 5+ years of experience building and maintaining e-commerce backend systems at AmorePacific.
+
+With a background in Statistics, I'm expanding my experience into data engineering and analytics, focusing on how retail data moves from operational systems into reliable datasets for analysis.
+
+- 🛍️ **Background:** E-commerce platforms, order processing, and API integrations
+- 🔨 **Currently building:** An omnichannel retail data platform connecting online and in-store sales data
+- 🌱 **Currently learning:** Cloud data pipelines, BigQuery, and analytics data modeling
+- 🎯 **Open to:** Data Engineering, Analytics Engineering, and Data Analyst opportunities, especially in e-commerce and retail
+
+### 🚀 Featured Projects
+
+#### 🍫 Omnichannel Retail Data Platform
+*Personal project · In progress*
+
+A simulated chocolate retail business with an online store and a multi-store POS system, built to explore how retail data can be integrated and prepared for analytics.
+
+- Transform source CSV data into Square API payloads using Python and Pandas.
+- Integrate products, customers, and store locations with Square Sandbox.
+- Track source-to-Square ID mappings to connect related records.
+- Currently extending the integration to orders and payments, with GCP and BigQuery planned for downstream analytics.
+
+**Tech:** Python · Pandas · REST APIs · Square Sandbox
+
+[View Repository](https://github.com/smmhk/chocolate-commerce-data-platform) · [Online Store](https://chocoflavor.dev/) · [POS Demo](https://chocoflavor.dev/pos)
+
 
 #### Programming Languages
 
@@ -21,5 +40,23 @@
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
+### 🛠️ Technical Skills
 
-💬 Feel free to reach out for collaboration or just to say hi! 😊
+| Area | Technologies |
+|---|---|
+| Data & Analytics | Python, SQL, Pandas, Excel, Tableau |
+| Backend Development | Java, Spring Boot, JPA |
+| Databases | PostgreSQL |
+| Data Integration | REST APIs, JSON, CSV, Source-to-Target Mapping |
+| Development Tools | Git, GitHub, JIRA |
+| Currently Exploring | GCP, BigQuery, ETL/ELT, Data Modeling |
+
+### 📫 Let's Connect
+
+I'm happy to connect with people working in e-commerce, retail technology, and data.
+
+Feel free to reach out for collaboration or just to say hi! 😊
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mandy_Shin-0A66C2?style=flat-square)](https://www.linkedin.com/in/mandy-shin-0ba004295)
+
+📄 [Resume](https://docs.google.com/document/d/1satRobHreU37_tsZiXy_BBx0A8EZKZdgsKVqAq0kIBc/edit?tab=t.0) · 🌐 [Portfolio & Web Resume](https://resumemandy.lovable.app/)
