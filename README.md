@@ -3,28 +3,31 @@
 
 **E-commerce Backend Developer → Data Engineering & Analytics**
 
-I'm a developer based in Vancouver, Canada, with 5+ years of experience building and maintaining e-commerce backend systems at AmorePacific.
-
 With a background in Statistics, I'm expanding my experience into data engineering and analytics, focusing on how retail data moves from operational systems into reliable datasets for analysis.
 
 - 🛍️ **Background:** E-commerce platforms, order processing, and API integrations
 - 🔨 **Currently building:** An omnichannel retail data platform connecting online and in-store sales data
-- 🌱 **Currently learning:** Cloud data pipelines, BigQuery, and analytics data modeling
+- 🌱 **Currently learning:** Cloud data pipelines, BigQuery, dbt, and analytics data modeling
 - 🎯 **Open to:** Data Engineering, Analytics Engineering, and Data Analyst opportunities, especially in e-commerce and retail
 
 ### 🚀 Featured Projects
 
 #### 🍫 Omnichannel Retail Data Platform
-*Personal project · In progress*
+*Charlie's Chocolate Factory · Personal project · In progress*
 
 A simulated chocolate retail business with an online store and a multi-store POS system, built to explore how retail data can be integrated and prepared for analytics.
 
-- Transform source CSV data into Square API payloads using Python and Pandas.
-- Integrate products, customers, and store locations with Square Sandbox.
-- Track source-to-Square ID mappings to connect related records.
-- Currently extending the integration to orders and payments, with GCP and BigQuery planned for downstream analytics.
+- Built Python pipelines to ingest online CSV data and Square Sandbox API data into PostgreSQL.
+- Integrated products, customers, store locations, and orders, using source-to-Square ID mappings to connect related records.
+- Organized data into separate online and Square raw schemas, preserving nested Square API payloads with JSONB.
+- Orchestrated nine ingestion workflows with Kestra and a parent workflow for sequential execution.
+- Added ingestion metadata and reusable Python logging to track pipeline runs, processing stages, and execution times; initially verified logging in the Square Catalog workflow.
+- Currently preparing the next stage: PostgreSQL → GCS → BigQuery, followed by dbt Staging → Intermediate → Marts models and data quality tests.
 
-**Tech:** Python · Pandas · REST APIs · Square Sandbox
+**Current Tech:** Python · SQL · Pandas · SQLAlchemy · PostgreSQL · REST APIs · Square Sandbox · Kestra · Docker
+
+**Next Implementation Stage:** Google Cloud Storage · BigQuery · dbt
+
 
 [View Repository](https://github.com/smmhk/chocolate-commerce-data-platform) · [Online Store](https://chocoflavor.dev/) · [POS Demo](https://chocoflavor.dev/pos)
 
@@ -44,12 +47,13 @@ A simulated chocolate retail business with an online store and a multi-store POS
 
 | Area | Technologies |
 |---|---|
-| Data & Analytics | Python, SQL, Pandas, Excel, Tableau |
+| Data & Analytics | Python, SQL, Pandas, Power BI, Excel, Tableau |
 | Backend Development | Java, Spring Boot, JPA |
 | Databases | PostgreSQL |
-| Data Integration | REST APIs, JSON, CSV, Source-to-Target Mapping |
-| Development Tools | Git, GitHub, JIRA |
-| Currently Exploring | GCP, BigQuery, ETL/ELT, Data Modeling |
+| Data Integration | SQLAlchemy, REST APIs, Square Sandbox, JSON, CSV, Source-to-Target Mapping |
+| Workflow Orchestration | Kestra, Parent/Child Workflows, Pipeline Run Metadata, Python Logging |
+| Development Tools | Git, GitHub, Docker, VS Code, Jupyter, Jira |
+| Currently Learning & Practicing | GCP, GCS, BigQuery, dbt, ETL/ELT, Analytics Data Modeling, Data Quality Testing |
 
 ### 📫 Let's Connect
 
