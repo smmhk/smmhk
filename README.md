@@ -63,4 +63,4 @@ Feel free to reach out for collaboration or just to say hi! 😊
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mandy_Shin-0A66C2?style=flat-square)](https://www.linkedin.com/in/mandy-shin-0ba004295)
 
-📄 [Resume](https://docs.google.com/document/d/1satRobHreU37_tsZiXy_BBx0A8EZKZdgsKVqAq0kIBc/edit?tab=t.0) · 🌐 [Portfolio & Web Resume](https://resumemandy.lovable.app/)
+📄 [Resume](https://docs.google.com/document/d/1satRobHreU37_tsZiXy_BBx0A8EZKZdgsKVqAq0kIBc/edit?usp=sharing) · 🌐 [Portfolio & Web Resume](https://resumemandy.lovable.app/)
